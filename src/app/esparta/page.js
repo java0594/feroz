@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import TarjetaDeJugador from './componentes/tarjetaDeJugador';
-import Titulo from '../componentes/titulo';
+import TarjetaDeJugador from '../componentes/TarjetaDeJugador';
+import Titulo from '../componentes/Titulo';
 
 
 export default function Home() {
