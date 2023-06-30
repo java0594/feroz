@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import TarjetaDeJugador from '../componentes/tarjetaDeJugador';
+import TarjetaDeJugador from './componentes/tarjetaDeJugador';
 import Titulo from '../componentes/titulo';
 
 
